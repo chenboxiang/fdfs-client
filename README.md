@@ -178,7 +178,7 @@ fdfs.on('error', function(err) {
 ```
 
 # 测试
-测试前请确保配置好FastDFS的Server地址，为tracker.fastdfs.com:22122，或者修改test/fdfs_test.js中的client配置，然后执行如下命令：
+测试时需要用到co，所以需要node版本0.11+。测试前请确保配置好FastDFS的Server地址，为tracker.fastdfs.com:22122，或者修改test/fdfs_test.js中的client配置，然后执行如下命令：
 ```shell
 make test
 ```
