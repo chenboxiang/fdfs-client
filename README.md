@@ -1,3 +1,5 @@
+> 很抱歉，此项目已停止维护！
+
 # Nodejs Client for FastDFS
 
 [FastDFS](http://bbs.chinaunix.net/forum-240-1.html) 是国人开发的分布式的小文件存储系统。这个项目是FastDFS的nodejs客户端，用来与FastDFS Server进行交互，进行文件的相关操作。我测试过的server版本是4.0.6。
