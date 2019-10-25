@@ -14,7 +14,7 @@
     "dependencies": {
         "bignumber.js": "1.4.1",
         "is-type-of": "0.3.0",
-        "lodash": "2.4.1"
+        "lodash": "4.17.15"
     },
     "devDependencies": {
         "blanket": "1.1.6",
